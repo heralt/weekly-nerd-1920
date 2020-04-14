@@ -53,5 +53,9 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 |   |   |   |   |   |
 
 
+### Funda workshop 
+We zijn met de hele klas naar het funda kantoor in Amsterdam gegaan. Daar werd de klas in groepen verdeeld 
+
+
 
 
